@@ -10,7 +10,7 @@
     "@stream-io/stream-chat-css": "link:../../../stream-chat-css",
     "react": "link:../../node_modules/react",
     "react-dom": "link:../../node_modules/react-dom",
-    "sass": "^1.54.0",
+    "sass": "^1.79.0",
     "stream-chat": "link:../../node_modules/stream-chat",
     "stream-chat-react": "link:../../"
   },

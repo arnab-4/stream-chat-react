@@ -8,7 +8,7 @@
     "react-dom": "link:../../../node_modules/react-dom",
     "react-images": "^1.2.0-beta.7",
     "react-scripts": "5.0.0",
-    "sass": "^1.41.0",
+    "sass": "^1.79.0",
     "stream-chat": "link:../../node_modules/stream-chat",
     "stream-chat-react": "link:../../../",
     "typescript": "4.3.5"
